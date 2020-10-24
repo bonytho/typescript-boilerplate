@@ -1,2 +1,3 @@
-# typescript-boilerplate
+# Typescript-boilerplate
+
 Express typescript boilerplate
